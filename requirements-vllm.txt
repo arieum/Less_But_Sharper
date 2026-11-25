@@ -1,0 +1,3 @@
+-r requirements.txt
+# evaluate_ppl.py uses the historical vLLM 0.2.x model internals.
+vllm==0.2.7
